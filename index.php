@@ -64,7 +64,7 @@
                                 <div class="clearfix"></div>
                                 <br />
                                 <div>
-                                    <p> <a style="text-decoration: underline;" target="_blank" href="http://github.com/amnersaucedososa">Codigo fuente GitHub</a></p>
+                                    <p> <a style="text-decoration: underline;" target="_blank" href="https://github.com/ghostbustermx/SistemaDeTickets">Codigo fuente GitHub</a></p>
                                 </div>
                             </div>
                         </form>
